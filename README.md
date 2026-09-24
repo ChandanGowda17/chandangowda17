@@ -1,4 +1,4 @@
-💫 About Me:
+💫 About Me: <br/> 
 👋 Hi there! I'm Chandan Gowda
 I'm a passionate Full Stack Developer and Cloud Enthusiast with a strong foundation in web development and cloud architecture. I enjoy building scalable, efficient, and innovative solutions. My skills span across the MERN stack, React, JavaScript, and AWS.
 
